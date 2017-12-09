@@ -1,0 +1,8 @@
+{
+  "outputFolder": "E:/Muzeum Teatru/Downloader/temp",
+  "checkIntervalInMinutes": 1,
+  "multimediaListHostName": "localhost",
+  "multimediaListPort": 82,
+  "multimediaListPath": "/api/data/5",
+  "multimediaUrl": "http://localhost:82/media/multimedia"
+}
